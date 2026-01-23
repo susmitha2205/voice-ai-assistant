@@ -1,0 +1,11 @@
+speechrecognition
+pyaudio
+faster-whisper
+ctranslate2
+groq
+python-dotenv
+pyttsx3
+nltk
+requests
+soundfile
+numpy
