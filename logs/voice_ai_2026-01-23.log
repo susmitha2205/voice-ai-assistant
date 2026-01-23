@@ -1,0 +1,39 @@
+[2026-01-23 23:10:14,476] [INFO] [ASSISTANT] Voice assistant cycle started
+[2026-01-23 23:10:15,030] [INFO] [STT] Listening for speech
+[2026-01-23 23:10:20,554] [ERROR] [STT] STT failed: listening timed out while waiting for phrase to start
+[2026-01-23 23:10:20,554] [WARNING] [ASSISTANT] Empty transcription received
+[2026-01-23 23:10:20,554] [INFO] [ASSISTANT] Metrics snapshot: {'stt_avg_ms': 6077.07, 'total_avg_ms': 6078.17, 'stt_error': 1, 'empty_stt': 1}
+[2026-01-23 23:10:20,554] [INFO] [ASSISTANT] Total assistant latency: 6078.17 ms
+[2026-01-23 23:10:20,554] [INFO] [ASSISTANT] Voice assistant cycle started
+[2026-01-23 23:10:20,709] [INFO] [STT] Listening for speech
+[2026-01-23 23:10:26,241] [ERROR] [STT] STT failed: listening timed out while waiting for phrase to start
+[2026-01-23 23:10:26,241] [WARNING] [ASSISTANT] Empty transcription received
+[2026-01-23 23:10:26,248] [INFO] [ASSISTANT] Metrics snapshot: {'stt_avg_ms': 5881.69, 'total_avg_ms': 5883.15, 'stt_error': 2, 'empty_stt': 2}
+[2026-01-23 23:10:26,249] [INFO] [ASSISTANT] Total assistant latency: 5688.13 ms
+[2026-01-23 23:10:26,249] [INFO] [ASSISTANT] Voice assistant cycle started
+[2026-01-23 23:10:26,403] [INFO] [STT] Listening for speech
+[2026-01-23 23:10:31,935] [ERROR] [STT] STT failed: listening timed out while waiting for phrase to start
+[2026-01-23 23:10:31,935] [WARNING] [ASSISTANT] Empty transcription received
+[2026-01-23 23:10:31,939] [INFO] [ASSISTANT] Metrics snapshot: {'stt_avg_ms': 5816.97, 'total_avg_ms': 5818.35, 'stt_error': 3, 'empty_stt': 3}
+[2026-01-23 23:10:31,939] [INFO] [ASSISTANT] Total assistant latency: 5688.74 ms
+[2026-01-23 23:10:31,939] [INFO] [ASSISTANT] Voice assistant cycle started
+[2026-01-23 23:10:32,080] [INFO] [STT] Listening for speech
+[2026-01-23 23:10:37,605] [ERROR] [STT] STT failed: listening timed out while waiting for phrase to start
+[2026-01-23 23:10:37,605] [WARNING] [ASSISTANT] Empty transcription received
+[2026-01-23 23:10:37,607] [INFO] [ASSISTANT] Metrics snapshot: {'stt_avg_ms': 5779.32, 'total_avg_ms': 5780.61, 'stt_error': 4, 'empty_stt': 4}
+[2026-01-23 23:10:37,607] [INFO] [ASSISTANT] Total assistant latency: 5667.39 ms
+[2026-01-23 23:10:37,607] [INFO] [ASSISTANT] Voice assistant cycle started
+[2026-01-23 23:10:37,753] [INFO] [STT] Listening for speech
+[2026-01-23 23:10:43,283] [ERROR] [STT] STT failed: listening timed out while waiting for phrase to start
+[2026-01-23 23:10:43,284] [WARNING] [ASSISTANT] Empty transcription received
+[2026-01-23 23:10:43,284] [INFO] [ASSISTANT] Metrics snapshot: {'stt_avg_ms': 5758.49, 'total_avg_ms': 5759.78, 'stt_error': 5, 'empty_stt': 5}
+[2026-01-23 23:10:43,285] [INFO] [ASSISTANT] Total assistant latency: 5676.46 ms
+[2026-01-23 23:10:43,285] [INFO] [ASSISTANT] Voice assistant cycle started
+[2026-01-23 23:10:43,426] [INFO] [STT] Listening for speech
+[2026-01-23 23:10:48,950] [ERROR] [STT] STT failed: listening timed out while waiting for phrase to start
+[2026-01-23 23:13:52,994] [WARNING] [ASSISTANT] Empty transcription received
+[2026-01-23 23:15:44,650] [INFO] [LLM] LLM response generated
+[2026-01-23 23:15:44,684] [INFO] [TTS] Speaking response
+[2026-01-23 23:15:53,109] [INFO] [TTS] Speaking response
+[2026-01-23 23:16:03,803] [INFO] [TTS] Speaking response
+[2026-01-23 23:16:11,623] [INFO] [TTS] Speaking response
