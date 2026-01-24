@@ -35,18 +35,12 @@ The goal is to demonstrate clean architecture, modular design, and awareness of 
 
 ## Data Flow
 
-User Voice
-    ↓
-Speech-to-Text
-    ↓
-Intent Detection
-    ↓
-LLM or Local Tool
-    ↓
-Summarization
-    ↓
+User Voice ->
+Speech-to-Text ->
+Intent Detection ->
+LLM or Local Tool ->
+Summarization ->
 Text-to-Speech
-
 
 ---
 
@@ -77,3 +71,4 @@ Text-to-Speech
 ## Conclusion
 
 This design prioritizes clarity, robustness, and real-world voice AI behavior while keeping the implementation simple and extensible.
+
